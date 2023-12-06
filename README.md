@@ -12,3 +12,14 @@ Libraries
 
 
 2.Recommenders
+
+
+
+•  Algorithms
+
+•  Popularity filtering
+
+•  Content-Based filtering
+
+•  Collaborative filtering
+
